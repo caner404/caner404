@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caner</h1>
 <h3 align="center">A passionate web developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caner404&label=Profile%20views&color=0e75b6&style=flat" alt="caner404" /> </p>
-
 - 🔭 I’m currently working on [Kanban Task Management Project inspired from Frontendmentor](https://github.com/caner404/kanban-task-management)
 
 - 🌱 I’m currently learning **Vue.js** and **React**
