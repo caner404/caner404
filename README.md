@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caner404&label=Profile%20views&color=0e75b6&style=flat" alt="caner404" /> </p>
 
-- 🔭 I’m currently working on [A tic-tac-toe game inspired from Frontendmentor](https://github.com/caner404/tic-tac-toe)
+- 🔭 I’m currently working on [Kanban Task Management Project inspired from Frontendmentor](https://github.com/caner404/kanban-task-management)
 
 - 🌱 I’m currently learning **Vue.js** and **React**
 
