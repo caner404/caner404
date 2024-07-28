@@ -29,5 +29,5 @@ You can view these and more [here](https://github.com/caner404).
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
 ## Connect with Me 📬
-- 📫 [Email] - TBD
-- 🔗 [LinkedIn] - TBD
+- 📫 [Email](caner.iskenderoglu@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/caner-iskenderoglu-6b8a8a304/)
