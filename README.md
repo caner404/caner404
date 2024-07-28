@@ -6,8 +6,12 @@ Currently, I am focusing on challenges from [Frontendmentor](https://www.fronten
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, TypeScript, Java
-- **Frameworks & Libraries:** React, Vue.js, Node.js, Supabase
-- **Tools & Platforms:** GitHub, Docker, Cypress, CI/CD
+- **Frameworks & Libraries:** React, Vue.js, Nest.js, Node.js
+- **State Management:** Redux, Pinia
+- **Styling:** TailwindCSS, Styled Components
+- **Testing:** Vitest, Testing Library (React Testing Library), Cypress
+- **Build Tools & Code Quality:**: Vite, ESLint, Prettier, Husky
+- **DevOps:** Docker (Docker Compose), Github Actions
 
 ## Key Projects 📚
 - **[The wild oasis](https://github.com/caner404/the-wild-oasis):** The Wild Oasis hotel management app is a full-featured React web application that allows hotel employees to manage cabins, bookings, and guests. he app uses Supabase for its backend.
