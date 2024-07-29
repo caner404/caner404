@@ -17,9 +17,9 @@ Currently, I am focusing on challenges from [Frontendmentor](https://www.fronten
 - **[The wild oasis](https://github.com/caner404/the-wild-oasis):** The Wild Oasis hotel management app is a full-featured React web application that allows hotel employees to manage cabins, bookings, and guests. he app uses Supabase for its backend.
 - **[In-browser markdown editor](https://github.com/caner404/in-browser-markdown-editor):** fully-functional in-browser markdown editor application with a light/dark mode toggle <br/>
     Live Site URL: [Live URL with github pages](https://caner404.github.io/in-browser-markdown-editor/)
-- **[Tic Tac Toe](https://github.com/caner404/memory-game):** A tic-tac-toe game bases around the design from frontendmentor. <br/>
+- **[Tic Tac Toe](https://github.com/caner404/memory-game):** A tic-tac-toe game based around the design from frontendmentor. <br/>
     Live Site URL: [Live URL with github pages](https://caner404.github.io/tic-tac-toe/)
-- **[Memory Game](https://github.com/caner404/memory-game):** Compiling essential VS Code extensions to enhance coding efficiency for our students. <br/>
+- **[Memory Game](https://github.com/caner404/memory-game):** Memory game based on the design from frontendmentor. <br/>
     Live Site URL: [Live URL with github pages](https://caner404.github.io/memory-game/)
 
 You can view these and more [here](https://github.com/caner404).
