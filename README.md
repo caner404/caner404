@@ -1,4 +1,4 @@
-👋 Hi, I'm Caner Iskenderoglu ! I'm a software developer and I focus on the topics related to web development.
+👋 Hi, I'm Caner Iskenderoglu ! I'm a software developer and I focus on topics related to web development.
 
 ## About Me
 I am a dedicated and enthusiastic Software Developer with a keen interest in web development. I am currently expanding my knowledge across various aspects of this field, continuously learning new techniques and technologies to enhance my skills. 
@@ -9,7 +9,7 @@ Currently, I am focusing on challenges from [Frontendmentor](https://www.fronten
 - **Frameworks & Libraries:** React, Vue.js, Nest.js, Node.js
 - **State Management:** Redux, Pinia
 - **Styling:** TailwindCSS, Styled Components
-- **Testing:** Vitest, Testing Library (React Testing Library), Cypress
+- **Testing:** Vitest, Testing Library (React Testing Library), Cypress, Playwright
 - **Build Tools & Code Quality:**: Vite, ESLint, Prettier, Husky
 - **DevOps:** Docker (Docker Compose), Github Actions
 
