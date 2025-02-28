@@ -6,12 +6,12 @@ Currently, I am focusing on challenges from [Frontendmentor](https://www.fronten
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, TypeScript, Java
-- **Frameworks & Libraries:** React, Vue.js, Nest.js, Node.js
+- **Frameworks & Libraries:** React, Vue, Nest.js, Node.js
 - **State Management:** Redux, Pinia
-- **Styling:** TailwindCSS, Styled Components
-- **Testing:** Vitest, Testing Library (React Testing Library), Cypress, Playwright
-- **Build Tools & Code Quality:**: Vite, ESLint, Prettier, Husky
-- **DevOps:** Docker (Docker Compose), Github Actions
+- **Styling:** TailwindCSS,
+- **Testing:** Vitest, Testing Library, Cypress, Playwright
+- **Build Tools & Code Quality:**: Vite, ESLint, Storybook
+- **DevOps:** Docker, Github Actions
 
 ## Key Projects 📚
 - **[Kanban-Task-Management](https://github.com/caner404/kanban-task-management):** A Kanban board developed using React and TypeScript. The application includes features for creating new boards and tasks, with each task being assigned to a specific board and status. <br/>
